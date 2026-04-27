@@ -1,4 +1,3 @@
-README.md
 #  Academe - Student Learning & Course Management System
 
 A full-stack web application that allows students to enroll in courses, track progress, and manage their learning journey.
